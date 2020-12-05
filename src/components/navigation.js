@@ -10,10 +10,7 @@ export default () => (
         <Header/>
         </div>
       <li className={styles.navigationItem}>
-        <Link to="/">Home</Link>
-      </li>
-      <li className={styles.navigationItem}>
-        <Link to="/blog/">Blog</Link>
+        <Link to="/">Kotisivu</Link>
       </li>
     </ul>
   </nav>

@@ -8,7 +8,7 @@ const Image = () => (
             query {
                 headerLogo: file(relativePath: { eq: "hitech.png" }) {
                     childImageSharp {
-                        fixed(width:100,height:100) {
+                        fixed(width:200,height:100) {
                             ...GatsbyImageSharpFixed
                         }
                     }
