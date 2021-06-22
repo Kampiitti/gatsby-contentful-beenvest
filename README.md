@@ -1,3 +1,7 @@
+This project is based on the Gatsby Starter Blog project and is a fork from that dedicated to specifically produce a website for my personal business of coaching junior ice hockey players.
+
+I've left the original description as an attachment here for anyone who might ponder on it and consider using it.
+
 # Contentful Gatsby Starter Blog
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com). This is a simplified version of the [Gatsby Contentful Starter](https://github.com/contentful-userland/gatsby-contentful-starter) which is maintained by our Community.
